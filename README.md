@@ -1,6 +1,3 @@
-[09.06] 9B Sambhavi Malla Egholmskolen
-<!DOCTYPE html>
-
 <html lang="en">
 
 <head>
